@@ -26,5 +26,6 @@ select.wpcf7 textarea:focus::-ms-value, select.wpcf7 input:focus::-ms-value {col
 .wpcf7 input[type="submit"]:focus, .wpcf7 input[type="submit"].focus {outline: 0;-webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.25);box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.25);}
 .wpcf7 input[type="submit"].disabled, .wpcf7 input[type="submit"]:disabled {cursor: not-allowed;opacity: .65;}
 .wpcf7 input[type="submit"]:active, .wpcf7 input[type="submit"].active {background-image: none;}
+.wpcf7 input[type="file"]{border: 0 !important;}
 .wpcf7 input[type="checkbox"]{position: absolute;-webkit-box-sizing: border-box;box-sizing: border-box;padding: 0;}
 ```
