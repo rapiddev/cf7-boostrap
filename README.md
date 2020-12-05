@@ -1,13 +1,11 @@
-# Boostrap v4 for Contact Form 7
-My first and possibly the least advanced plugin for WordPress<br />
+# Boostrap v5 for Contact Form 7
 Contact Form 7 is a work of Takayuki Miyoshi
 * [Find it on WordPress Respository](https://wordpress.org/plugins/contact-form-7/)
 
 ## What is this wonderful and amazing plugin do?
-Changes default WordPress Contact Form 7 styles to Bootstrap v.4-alpha styles (wow!)
+Changes default WordPress Contact Form 7 styles to Bootstrap v.5
 
-## You do not need to install this plugin!
-(Just add these lines to your style.css file)
+## Just add these lines to your style.css file
 ```css
 .wpcf7 label {display: block;width: 100%;}
 .wpcf7 input, .wpcf7 select, .wpcf7 textarea {display: block;width: 100%;padding: 0.5rem 0.75rem;font-size: 1rem;line-height: 1.25;color: #464a4c;background-color: #fff;background-image: none;-webkit-background-clip: padding-box;background-clip: padding-box;border: 1px solid rgba(0, 0, 0, 0.15);border-radius: 0.25rem;-webkit-transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;transition: border-color ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;-o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s, -webkit-box-shadow ease-in-out 0.15s;}
